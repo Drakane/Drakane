@@ -7,7 +7,7 @@
 en formation dev
 
 ## 🔧 Technologies utilisées
-HTML, CSS, JavaScript, Node.js
+HTML, CSS, JavaScript
 
 ## 🧪 Projet préféré
 [monument](https://github.com/Drakane/monument)
