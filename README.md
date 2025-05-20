@@ -1,16 +1,20 @@
-## Hi there 👋
 
-<!--
-**Drakane/Drakane** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 👾 Drakane — apprentis dévelopeur
 
-Here are some ideas to get you started:
+> _"un bon code et un code bien fournis !!"_
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧠 À propos
+en formation dev
+
+## 🔧 Technologies utilisées
+HTML, CSS, JavaScript, Node.js
+
+## 🧪 Projet préféré
+[monument](https://github.com/Drakane/monument)
+
+## 📬 Contact
+byron.cambien@hotmail.com
+
+---
+
+
